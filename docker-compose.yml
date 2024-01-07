@@ -1,0 +1,16 @@
+version: '3.8'
+services: 
+  db:
+    image: mcr.microsoft.com/mssql/server:${MSSQL_VERSION}
+    user: root
+    environment:
+      MSSQL_SA_PASSWORD: ${MSSQL_PASSWORD}
+      ACCEPT_EULA: "Y"
+    env_file:
+      - .env
+    ports:
+      - 1433:1433
+    volumes:
+      - ./.localdb/data:/var/opt/mssql/data
+      - ./.localdb/log:/var/opt/mssql/log
+      - ./.localdb/secrets:/var/opt/mssql/secrets
