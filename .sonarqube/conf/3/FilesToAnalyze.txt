@@ -1,0 +1,11 @@
+﻿C:\Users\Gusta\Study\.Net + React\Reactivities\API\Controllers\WeatherForecastController.cs
+C:\Users\Gusta\Study\.Net + React\Reactivities\API\Program.cs
+C:\Users\Gusta\Study\.Net + React\Reactivities\API\WeatherForecast.cs
+C:\Users\Gusta\Study\.Net + React\Reactivities\API\obj\Debug\net8.0\API.GlobalUsings.g.cs
+C:\Users\Gusta\Study\.Net + React\Reactivities\API\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\Gusta\Study\.Net + React\Reactivities\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Gusta\Study\.Net + React\Reactivities\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gusta\Study\.Net + React\Reactivities\API\appsettings.Development.json
+C:\Users\Gusta\Study\.Net + React\Reactivities\API\appsettings.json
+C:\Users\Gusta\Study\.Net + React\Reactivities\API\API.http
+C:\Users\Gusta\Study\.Net + React\Reactivities\API\Properties\launchSettings.json
