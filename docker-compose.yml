@@ -2,6 +2,9 @@ version: '3.8'
 services: 
   db:
     image: mcr.microsoft.com/mssql/server:${MSSQL_VERSION}
+    container_name: ReactivityDb
+    labels:
+      - com.host.description=ReactivityDb
     user: root
     environment:
       MSSQL_SA_PASSWORD: ${MSSQL_PASSWORD}
